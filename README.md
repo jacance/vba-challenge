@@ -1,5 +1,5 @@
 
-Goal was to create a script to successfully loop through all the stocks for one year and output the following information:
+Created VBA script to analyze real stock market data. Script loops through all the stocks for one year and outputs the following information:
 
 
 	-The ticker symbol.
